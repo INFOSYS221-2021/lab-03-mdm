@@ -24,12 +24,12 @@ Version 1
 3. END when count is complete    
 
 Version 2    
-START    
-1.   GET integer value  
-2. IF integer value smaller than 0  
-3. SET integer value to multiply of -1  
+1. START    
+2.   GET integer value  
+3. IF integer value smaller than 0  
+4. SET integer value to multiply of -1  
    ENDIF  
-4. FOR every digit in the integer value  
+5. FOR every digit in the integer value  
    SET count value to count add 1  
-5. END when count is complete  
-END    
+6. END when count is complete  
+7, END    
