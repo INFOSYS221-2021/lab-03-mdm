@@ -24,17 +24,10 @@ COUNT length of digits
 END when count is complete
 
 Version 2
-`
-   GET integer value
-   
-IF integer value smaller than 0
-
-SET integer value to multiply by -1
-
-   END IF
-   
-FOR every digit in the integer value
-
+1.   GET integer value
+2.IF integer value smaller than 0
+3.SET integer value to multiply by -1
+   ENDIF
+4.FOR every digit in the integer value
    COUNT digits
-   
-END when count is complete`
+5.END when count is complete`
