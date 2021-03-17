@@ -14,15 +14,17 @@ Sorting numbers:
 IF first number is bigger than next number
     
 ELSE
-
+```
 Count digits:
 
 **** Version 1
+```
 1.  REMOVE non-number characters    
 2.  COUNT length of digits    
 3.  END when count is complete    
-
+```
 **** Version 2
+```
 1. START    
 2. GET integer value  
 3. IF integer value smaller than 0  
