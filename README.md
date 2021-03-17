@@ -25,9 +25,9 @@ END when count is complete
 
 Version 2
 1.   GET integer value  
-2.IF integer value smaller than 0  
-3.SET integer value to multiply by -1  
+2. IF integer value smaller than 0  
+3. SET integer value to multiply by -1  
    ENDIF  
-4.FOR every digit in the integer value  
+4. FOR every digit in the integer value  
    COUNT digits  
-5.END when count is complete  
+5. END when count is complete  
