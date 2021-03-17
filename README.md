@@ -27,7 +27,7 @@ Version 2
 START    
 1.   GET integer value  
 2. IF integer value smaller than 0  
-3. SET integer value to multiply by -1  
+3. SET integer value to multiply of -1  
    ENDIF  
 4. FOR every digit in the integer value  
    SET count value to count add 1  
