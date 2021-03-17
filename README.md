@@ -1,8 +1,8 @@
-Dean Chung
+:smiley: Dean Chung
 
-Michael Catterall
+:stuck_out_tongue: Michael Catterall
 
-Michael Jones
+:yum: Michael Jones
 
 ```
 GET length count of characters in word/sentence
