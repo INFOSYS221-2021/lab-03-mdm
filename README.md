@@ -24,7 +24,7 @@ COUNT length of digits
 END when count is complete
 
 Version 2
-
+`
    GET integer value
    
 IF integer value smaller than 0
@@ -37,4 +37,4 @@ FOR every digit in the integer value
 
    COUNT digits
    
-END when count is complete
+END when count is complete`
