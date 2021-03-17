@@ -15,7 +15,7 @@ IF first number is bigger than next number
     
 ELSE
 ```
-Count digits:
+# Count digits
 
 ## Version 1
 ```
