@@ -25,7 +25,7 @@ END when count is complete
 
 Version 2
 
-     GET integer value
+GET integer value
 IF integer value smaller than 0
 SET integer value to multiply by -1
      END IF
