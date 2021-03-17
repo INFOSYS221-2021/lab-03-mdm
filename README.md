@@ -17,13 +17,13 @@ ELSE
 ```
 # Count digits
 
-### Version 1 :shit:
+### Version 1 :fire:
 ```
 1.  REMOVE non-number characters    
 2.  COUNT length of digits    
 3.  END when count is complete    
 ```
-### Version 2 :fire:
+### Version 2 :shit:
 ```
 1. START    
 2. GET integer value  
@@ -34,3 +34,13 @@ ELSE
         SET count value to count add 1  
 6. END when count is complete    
 ``` 
+### Version 3 :fire:
+```
+1. START    
+2. If number is negative    
+3.      Set number to absolute with number x -1
+4. ENDIF
+5. FOR each digit in integer value
+6.      Set count to count + 1
+7. END count at end of line
+```
