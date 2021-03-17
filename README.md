@@ -23,7 +23,7 @@ Version 1
 2. COUNT length of digits    
 3. END when count is complete    
 
-Version 2
+Version 2    
 START    
 1.   GET integer value  
 2. IF integer value smaller than 0  
