@@ -17,13 +17,13 @@ ELSE
 ```
 # Count digits
 
-## Version 1
+### Version 1
 ```
 1.  REMOVE non-number characters    
 2.  COUNT length of digits    
 3.  END when count is complete    
 ```
-## Version 2
+### Version 2
 ```
 1. START    
 2. GET integer value  
