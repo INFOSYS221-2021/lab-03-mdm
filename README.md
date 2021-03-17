@@ -19,9 +19,9 @@ ELSE
 Count digits:
 
 Version 1
-REMOVE non-number characters
-COUNT length of digits
-END when count is complete
+1. REMOVE non-number characters    
+2. COUNT length of digits    
+3. END when count is complete    
 
 Version 2
 1.   GET integer value  
